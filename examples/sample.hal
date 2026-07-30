@@ -1,0 +1,4 @@
+X = 10;
+Y = X + 5;
+PRINT Y;
+PRINT X - 3;
